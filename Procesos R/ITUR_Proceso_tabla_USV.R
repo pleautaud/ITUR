@@ -1,6 +1,6 @@
 #Script para el proceso de la tabla intersectado malla - USV
-#Pablo Leautaud Valenzuela
-#24 de noviembre del 2022
+#Pablo Leautaud Valenzuela (https://www.pablo-leautaud.com/)
+#Creación: 24 de noviembre del 2022
 
 #----------------------------------
 #Librerias a usar:

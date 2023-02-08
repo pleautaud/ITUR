@@ -1,6 +1,15 @@
-#Script para el cálculo del ITUR con los datos continuos DGOT.
-#Pablo Leautaud Valenzuela
-#5 de diciembre del 2022
+#Script para el cálculo del ITUR con los datos continuos DGOT (SEDATU).
+#Pablo Leautaud Valenzuela (https://www.pablo-leautaud.com/)
+#Creación: 5 de diciembre del 2022
+
+#----------------------------------
+#Requerimientos previos:
+#*un archivo tabular delimitado por comas (CSV) que incorpore las variables base ITUR 
+#empleando la nomenclatura especificada en el Diccionario de Datos.
+
+#*requiere dos subcarpetas localizadas al interior del proyecto de R Studio con 
+#los nombres: “ITUR” y “SHP” para guardar los archivos de salida.
+
 
 #----------------------------------
 #Librerias a usar:
