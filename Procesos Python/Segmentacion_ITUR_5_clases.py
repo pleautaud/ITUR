@@ -1,9 +1,9 @@
-#Sript de Python para integrar la segmentación del ITUR en cinco categorias, en el "Pield Calculator".
+#Sript de Python para integrar la segmentación del ITUR en cinco categorias, en el "Field Calculator".
 #Se deben emplear los siguientes parámetros:
 #Parser: Python
 #Expression: Reclass(!VALOR!)
 
-#Cídigo Pytho para el Code Block:
+#Código Pytho para el Code Block:
 def Reclass(VALOR):
   if (VALOR >= 0 and VALOR <= 0.170403):
     return 1
